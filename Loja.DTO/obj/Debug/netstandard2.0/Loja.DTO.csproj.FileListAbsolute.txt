@@ -1,8 +1,0 @@
-C:\Users\Trico\source\repos\Loja\Loja.DTO\bin\Debug\netstandard2.0\Loja.DTO.deps.json
-C:\Users\Trico\source\repos\Loja\Loja.DTO\bin\Debug\netstandard2.0\Loja.DTO.dll
-C:\Users\Trico\source\repos\Loja\Loja.DTO\bin\Debug\netstandard2.0\Loja.DTO.pdb
-C:\Users\Trico\source\repos\Loja\Loja.DTO\obj\Debug\netstandard2.0\Loja.DTO.csprojAssemblyReference.cache
-C:\Users\Trico\source\repos\Loja\Loja.DTO\obj\Debug\netstandard2.0\Loja.DTO.AssemblyInfoInputs.cache
-C:\Users\Trico\source\repos\Loja\Loja.DTO\obj\Debug\netstandard2.0\Loja.DTO.AssemblyInfo.cs
-C:\Users\Trico\source\repos\Loja\Loja.DTO\obj\Debug\netstandard2.0\Loja.DTO.dll
-C:\Users\Trico\source\repos\Loja\Loja.DTO\obj\Debug\netstandard2.0\Loja.DTO.pdb
